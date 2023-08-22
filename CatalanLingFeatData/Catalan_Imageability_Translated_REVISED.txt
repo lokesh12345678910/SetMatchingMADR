@@ -1,0 +1,149 @@
+capaç able 5.28125
+abundant abundant 3.96875
+en contra against 5.40625
+gairebé almost 6.21875
+i and 5.65625
+ningú anyone 4.09375
+perquè because 5.9375
+vaixell boat 1.0625
+vaixell boat 2.28125
+vaixell boat 1.0625
+pa bread 1.09375
+pinzell brush 1.125
+toro bull 1.15625
+toro bull 1.03125
+però but 6.3125
+catedral cathedral 1.15625
+segle century 4.8125
+cadira chair 1.21875
+personatge character 5.5
+pollastre chicken 1.0625
+rellotge clock 1.0625
+conscient conscious 5.15625
+contenidor container 1.84375
+menyspreu contempt 5.125
+cabana cottage 1.34375
+creu cross 1.28125
+cogombre cucumber 1.15625
+tassa cup 1.875
+dard dart 1.1875
+coberta deck 2.90625
+determinar determine 5.96875
+fet done 5.65625
+porta door 1.0
+dinastia dynasty 4.0
+esquimal eskimo 1.21875
+proves evidence 5.6875
+exacte exact 5.21875
+cara face 1.40625
+família family 1.53125
+por fear 4.15625
+ploma feather 1.09375
+ploma feather 1.09375
+flor flower 1.09375
+menjar food 1.5625
+per sempre forever 5.65625
+frau fraud 5.09375
+ulleres glasses 1.0
+cabra goat 1.09375
+or gold 1.6875
+gravetat gravity 4.3125
+terra ground 1.28125
+tenia had 5.625
+mà hand 1.0
+gallina hen 1.03125
+banya horn 1.21875
+cavall horse 1.0
+hospital hospital 1.15625
+idea idea 4.34375
+inconcebible inconceivable 6.4375
+no comestible inedible 4.5
+informació information 3.875
+inuit inuit 5.34375
+la seva its 4.75
+genoll knee 1.03125
+llac lake 1.34375
+menys less 4.125
+limitada limited 5.375
+home man 1.0625
+marjal marsh 1.59375
+màscara mask 1.4375
+màscara mask 1.25
+partits matches 1.3125
+matèria matter 5.0625
+ment mind 4.875
+mico monkey 1.03125
+mico monkey 1.84375
+més more 4.4375
+ratolí mouse 1.1875
+tassa mug 1.0625
+Pròxim next 3.25
+enlloc nowhere 6.0625
+monja nun 1.0625
+pintures paints 1.3125
+pera pear 1.0
+coixí pillow 1.0625
+pi pinetree 1.09375
+lloc place 3.84375
+president president 2.53125
+primària primary 5.15625
+benefici profit 4.59375
+ràpidament quickly 4.3125
+ràdio radio 1.1875
+rata rat 1.03125
+raó reason 5.96875
+recent recent 5.84375
+tornar return 4.875
+ridícul ridiculous 4.84375
+sostre roof 1.25
+gall rooster 1.09375
+sac sack 1.0625
+guardar save 3.1875
+tisores scissors 1.1875
+segur secure 5.5
+brillar shine 2.53125
+vaixell ship 1.3125
+botiga shop 1.1875
+hauria should 6.6875
+alguns some 4.8125
+especial special 5.25
+subtil subtle 6.375
+etiqueta tag 1.75
+tetera teapot 1.25
+descongelat thawed 3.09375
+allà there 4.15625
+temps time 5.875
+pneumàtic tire 1.09375
+al·legar to allege 5.84375
+apreciar to appreciate 5.375
+trencar to break 2.375
+tallar to chop 2.75
+per descriure to describe 2.0625
+esperar to expect 4.09375
+aconseguir to get 5.125
+donar to give 3.34375
+Millorar to improve 5.4375
+llepar to lick 1.9375
+proveir to provide 4.1875
+serrar to saw 1.875
+declarar to state 4.25
+enfilar to thread 3.34375
+transformar to transform 5.09375
+per escriure to type 1.59375
+escriure to write 2.0625
+tomàquet tomato 1.0
+raspall de dents toothbrush 1.28125
+comerç trade 3.0625
+arbre tree 1.0625
+truita trout 1.15625
+pinces tweezers 1.15625
+desconegut unknown 4.65625
+valor value 5.34375
+armilla vest 1.625
+vinya vine 1.5
+escalfat warmed 4.53125
+qui who 5.78125
+amb with 5.375
+sense without 5.21875
+cuc worm 1.15625
+iot yacht 1.8125

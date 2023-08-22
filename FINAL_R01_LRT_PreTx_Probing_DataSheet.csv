@@ -1,0 +1,809 @@
+﻿Original order in ppt,"Source (Probe list, Patient)",Semantic  Category,Cog Status (Span/Cat),Palabra en English,Palabra en Castellano,Paraula en Català
+1,Probe List,body part,1,thumb,pulgar,polze
+2,Probe List,object,0,whistle,silbato,xiulet
+3,Probe List,animal,1,bee,abeja,abella
+4,Probe List,food/fruit,0,Plums,Ciruelas,Prunes
+5,Probe List,kitchen item,0,Tray,Bandeja,Safata
+6,Probe List,tools,0,pliers,alicates,tenalles
+7,Probe List,object,0,Sewer,Alcantarilla,Claveguera
+8,Probe List,profession/person,1,fireman,bombero,bomber
+9,Probe List,food/fruit,0,grapes,uvas,raïm
+10,Probe List,animal,0,fox,zorro,guineu
+11,Probe List,food/veg,1,celery,apio,api
+12,Probe List,tools,0,tools,herramientas,eines
+13,Probe List,kitchen item,0,Grill,Parrilla/Asador,Graella
+14,Probe List,body part,2,mouth,boca,boca
+15,Probe List,clothing,1,dress,vestido,vestit
+16,Probe List,food/veg,0,Eggplant,Berenjena,Albergínia
+17,Probe List,object,0,Flowerpot,Maceta o tiesto,Test
+18,Probe List,food,0,,jamón,Pernil
+19,Probe List,body part,1,hair,cabello/pelo,cabell
+20,Probe List,household item,0,window,ventana,finestra
+21,Probe List,hygiene product/health,0,Nail clippers,Cortaúñas,Tallaungles
+22,Probe List,tool,1,broom,Escoba,escombra
+23,Probe List,clothing,0,Buckle,Hebilla,Sivella
+24,Probe List,object,1,Fountain,fuente,font
+25,Probe List,kitchen item,0,Cork,Corcho,Tap de suro / Tap
+26,Probe List,food/fruit,0,apple,manzana,poma
+27,Probe List,animal,0,donkey,burro,ruc/burro
+28,Probe List,games,0,kite,cometa,estel
+29,Probe List,clothing,0,hat,sombrero,barret
+30,Probe List,household item,0,,lavadora,Rentadora
+31,Probe List,animal,0,,polilla,arna
+32,Probe List,object,0,candle ,vela,espelma
+33,Probe List,food/veg,0,olive,aceituna,oliva
+34,Probe List,instrument,1,clarinet,clarinete,clarinet
+35,Probe List,animal,0,owl,búho,mussol
+36,Probe List,body parts,0,eye,ojo,ull
+37,Probe List,kitchen item,0,knife,cuchillo,ganivet
+38,Probe List,animal,0,duck,pato,ànec
+39,Probe List,clothing,0,vest,chaleco,armilla
+40,Probe List,furniture,0,lamp,lámpara,làmpara
+41,Probe List,object,2,paint,pintura ,pintura
+42,Probe List,kitchen item,0,fork ,tenedor,forquilla
+43,Probe List,object,0,key,llave,clau
+44,Probe List,games,0,chess,ajedrez,escacs
+45,Probe List,animal,0,lizard,lagartija,sargantana/llangardaix
+46,Probe List,accessory,0,,abanico,ventall
+47,Probe List,kitchen item,0,Corkscrew,Sacacorchos,llevataps
+48,Probe List,food/nuts,0,pistachios,pistachos/pistaches,festucs
+49,Probe List,animal,0,monkey,mono,mico
+50,Probe List,object,0,ceiling ,techo,sostre
+51,Probe List,kitchen item,0,napkin,servilleta,tovalló
+52,Probe List,tools,0,axe,hacha,destral
+53,Probe List,household item,1,blinds,persianas,persianes
+54,Probe List,games,0,swing ,columpio,gronxador
+55,Probe List,clothing,0,diaper,pañal,bolquer
+56,Probe List,animal,0,beehive,colmena,rusc
+57,Probe List,accessory,0,glasses,gafas/espejuelos/lentes/anteojos,ulleres
+58,Probe List,electronics,1,phone,teléfono,telèfon
+59,Probe List,food/nuts,0,acorn,bellota,gla
+60,Probe List,games,0,marbles,canicas,bales
+61,Probe List,food,0,egg,huevos,ous
+62,Probe List,household item,0,blanket,cobija,recera
+63,Probe List,food/veg,0,carrot,zanahoria,pastanaga
+64,Probe List,animal,0,worm,gusano /lombriz,cuc
+65,Probe List,body parts,0,shoulder,hombro,espatlla
+66,Probe List,food/snack,0,popcorn,palomitas,crispetes
+67,Probe List,office supply,0,chalk,tiza,guix
+68,Probe List,profession/person,2,doctor,doctor/médico,doctor/metge
+69,Probe List,food/veg,0,pickle,pepinillo,cogombret
+70,Probe List,object,1,Cross,cruz,creu
+71,Probe List,gemstones,0,emerald,esmeralda,maragda
+72,Probe List,food/veg,0,avocado,aguacate,alvocat
+73,Probe List,office supply,2,shredder,trituradora,trituradora
+74,Probe List,food/fruit,0,strawberry,fresa,maduixa
+75,Probe List,animal,0,dog ,perro,gos
+76,Probe List,tools,0,Screw,Tornillo,Cargol
+77,Probe List,clothing,0,sock,calcetín,mitjó
+78,Probe List,food/veg,0,lettuce,lechuga,enciam
+79,Probe List,kitchen item,0,can,lata,llauna
+80,Probe List,place,1,House,casa,casa
+81,Probe List,furniture,0,table,mesa,taula
+82,Probe List,kitchen item,0,pan,sartén,paella
+83,Probe List,animal,0,squirrel,ardilla,esquirol
+84,Probe List,food/fruit,0,peach,melocotón,préssec
+85,Probe List,kitchen item,0,glass,vaso,vas/got
+86,Probe List,plant,2,thorn,espina,espina
+87,Probe List,instrument,2,flute ,flauta,flauta
+88,Probe List,animal,0,,sapo,gripau
+89,Probe List,kitchen item,0,Spoon,Cuchara ,Cullera 
+90,Probe List,accessory,0,earrings,aretes/pantallas/,anells/arracada
+91,Probe List,food/fruit,0,orange,naranja,taronja
+92,Probe List,beauty,0,mirror,espejo,mirall
+93,Probe List,animal,0,,jabalí,porc senglar/senglar
+94,Probe List,kitchen item,1,strainer,colador,colador
+95,Probe List,body parts,0,,Rodilla,Genoll
+96,Probe List,food/snack,0,cheese,queso,formatge
+97,Probe List,clothing,0,,Pendiente,Arracada
+98,Probe List,household item,0,bed,cama,llit
+99,Probe List,food,0,,pimienta,pebre
+100,Probe List,place,1,Gym,gimnasio,gimnàs
+101,Probe List,household item,0,pillow,almohada,coixí
+102,Probe List,animal,0,,gorrión,pardal
+103,Probe List,food,0,,trigo,Blat
+104,Probe List,body parts,0,,Pierna,Cama 
+105,Probe List,household item,0,,muleta,Crossa
+106,Probe List,object,0,brick,ladrillo,maó
+107,Probe List,food/fruit,0,,frambuesa,gerd
+108,Probe List,kitchen item,0,Straw,paja/caña/pajita,palla/canya/canyeta
+109,Probe List,nature,1,Mountain,montaña,muntanya
+110,Probe List,animal,0,,paloma,colom
+111,Probe List,food/veg,0,,Acelga,Bleda 
+112,Probe List,body parts,0,,Flequillo,serrell
+113,Probe List,household item,0,,grifo,Aixeta
+114,Probe List,animal,1,hippopotamus,hipopótamo,hipopòtam
+115,Probe List,food/veg,0,,guisante,pèsol
+116,Probe List,hygiene product/health,1,inhaler ,inhalador,inhalador
+117,Probe List,animal,0,,cordero,xai
+118,Probe List,object,1,Box,Caja ,Caixa 
+119,Probe List,games,0,,muñeca,nina
+120,Probe List,household item,0,,lavavajillas,rentavaixelles
+121,Probe List,animal,1,giraffe,jirafa,girafa
+122,Probe List,food,0,,alubias,mongetes
+123,Probe List,kitchen item,1,blender,licuadora/batidora,liquadora
+124,Probe List,tools,0,,cerradura,pany
+125,Probe List,body parts,0,,muela,queixal
+126,Probe List,games,0,,peonza,baldufa
+127,Probe List,food/veg,0,,civada,avena
+128,Probe List,hygiene product/health,1,mask,máscara,màscara
+129,Probe List,household item,0,,"hucha, alcancía",Guardiola
+130,Probe List,food/veg,1,onion,cebolla,ceba
+131,Probe List,animal,1,gorilla,gorila,goril·la
+132,Probe List,hygiene product/health,2,shampoo,champú,xampú
+133,Probe List,food/fruit,0,,arándanos,nabiu
+134,Probe List,nature,0,,lluvia,pluja
+135,Probe List,body part,1,Nose,Nariz ,Nas 
+136,Probe List,food,0,,cebada,Ordi
+137,Probe List,animal,1,bear,oso,ós
+138,Probe List,office supply,0,Pencil sharpener,Sacapuntas,Maquineta
+139,Probe List,place,1,kiosk,quiosco,quiosc
+140,Probe List,food,0,,perejil,julivert
+141,Probe List,clothing,1,Pijama,pijama,pijama
+142,Probe List,tools,0,,tuberías,canonades
+143,Probe List,profession/person,1,police,policía,policia
+144,Probe List,place,0,,tienda,botiga
+145,Probe List,food/fruit,0,,membrillo,codony
+146,Probe List,animal,0,,toro,bou/toro
+147,Probe List,office supply,1,pencil,lápiz,llapis
+148,Probe List,food/meal,2,Soup,sopa,sopa
+149,Probe List,household item,0,,baldosa,rajola
+150,Probe List,object,1,card,tarjeta,targeta
+151,Probe List,food,0,,garbanzo,cigró
+152,Probe List,clothing,0,,colgante,penjoll
+153,Probe List,animal,0,,lechón,garrí
+154,Probe List,household item,1,Radiator,Radiador/estufa/calentador,Radiador
+155,Probe List,body parts,0,,Muñeca,Canell
+156,Probe List,transportation,1,sailboat,velero/barco,veler
+157,Probe List,animal,0,,Mariposa,Papallona
+158,Probe List,tools,0,,destornillador,tornavís
+159,Probe List,food/veg,1,artichoke ,alcachofa,carxofa
+160,Probe List,household item,0,,sábana,Llençol
+161,Probe List,sports,1,basketball,bàsquet/baloncesto/básquebol,bàsquet
+162,Probe List,animal,0,,Rana,Granota
+163,Probe List,clothing,0,,pañuelo,Mocador
+164,Probe List,food,0,,centeno,sègol
+165,Probe List,animal,0,,ternero,vedell
+166,Probe List,person,1,child,niño,nen
+167,Probe List,food/veg,0,,seta,bolet
+168,Probe List,household item,1,hanger,percha/perchero/gancho,penjador
+169,Probe List,kitchen item,0,,palillo,escuradents
+170,Probe List,animal,0,,cachorro,cadell
+171,Probe List,instrument,1,violin,violín,violí
+172,Probe List,food,0,,chuche,llaminadura
+173,Probe List,object,1,paddle,remo,rem
+174,Probe List,place,0,,acera,vorera
+175,Probe List,household item,0,,cubo,Galleda
+176,Probe List,clothing,0,,sudadera,dessuadora
+177,Probe List,animal,1,shark,tiburón,tauró
+178,Probe List,household item,0,,mechero,Encenedor
+179,Probe List,place,0,,lavandería,bugaderia
+180,Probe List,games,0,,marioneta,titella
+181,Probe List,animal,0,,cerdo,porc
+182,Probe List,hygene product/ health,0,brush,cepillo,raspall
+183,Probe List,tools,0,,bisagra,frontissa
+184,Probe List,clothing,0,,camiseta,samarreta
+185,Probe List,nature,0,,niebla,boira
+186,Probe List,household item,0,,red,xarxa
+187,Probe List,transportation,1,stroller,cochecito/carrito,cotxet
+188,Probe List,object,0,Fence,Valla,Tanca
+189,Probe List,animal,0,,murciélago,ratpenat
+190,Probe List,clothing,0,,bragas,calces
+191,Probe List,place,0,,panadería/horno,forn/fleca
+192,Probe List,animal,0,,babosa,llimac
+193,Probe List,furniture,0,,cuna,bressol
+194,Probe List,kitchen item,0,bottle,botella,ampolla
+195,Probe List,place,0,,comedor,menjador
+196,Probe List,transportation,0, ,barco,vaixell
+197,Probe List,nature,0,,arena,sorra
+198,Probe List,household item,0,chair,silla,cadira
+199,Probe List,animal,0,,buitre,voltor
+200,Probe List,household item,1,Vacuum cleaner,Aspiradora,aspirador
+201,Probe List,transportation,1,Traffic lights,Semàforo,Semàfor
+202,Probe List,object,1,Scale,Báscula,Bàscula
+203,Probe List,nature,1,Planets,Planetas,Planetes
+204,Probe List,transportation,1,sled,trineo,trineu
+205,Probe List,hygiene product/health,1,Walking stick/cane,Bastón,Bastó
+206,Probe List,tools,1,Saw,Serrucho,Serra
+207,Probe List,household item,1,Cushions,Cojines,Coixins
+208,Probe List,food/veg,1,Zucchini,Calabacín/calabaza,Carabassó
+209,Probe List,kitchen item,1,Juicer,Exprimidor,Espremedor
+210,Probe List,household item,1,Dresser,Cajonera,Calaixera
+211,Probe List,food/veg,2,cabbage,repollo/col,col
+212,Probe List,object,1,Fishbowl,Pecera,Peixera
+213,Probe List,transportation,1,Tow,Remolque/grúa,Remolc
+214,Probe List,household item,1,Laundry basket,Cestón,Cistella
+215,Probe List,hygiene product/health,1,Nail file,Lima,lima
+216,Probe List,object,1,Pool float/floatie,Flotador,Flotador
+217,Probe List,place,2,Cabin,Cabaña,Cabanya
+218,Probe List,object,1,Mailbox,Buzón,Bústia
+219,Probe List,kitchen item,1,Sponge,Esponja,Esponja
+220,Probe List,place,1,Bell tower,Campanario,Campanar
+221,Probe List,kitchen item,1,Cup,Taza,Tassa
+222,Probe List,electronics,1,Microphone,Micrófono,Micròfon
+223,Probe List,food/veg,1,Pepper,Pimiento ,Pebrot 
+224,Probe List,object,1,Street light,Farola,Fanal
+225,Probe List,food/veg,1,Cauliflower,Coliflor,Coliflor
+226,Probe List,household item,1,Mop,Fregona/trapeadora/mapo,fregona
+227,Probe List,hygiene product/health,1,Syringe,Jeringuilla/jeringa,Xeringa
+228,Probe List,object,2,Rearview,Retrovisor,Retrovisor
+229,Probe List,instrument,2,Tambourine,Pandereta,Pandereta
+230,Probe List,transportation/tools,2,Excavator,Excavadora,Excavadora
+231,Probe List,household item,1,Coat rack,Perchero,Penjarrobes/Penjador
+232,Probe List,kitchen item,1,stove,estufa/cocina,estufa/cuina
+233,Probe List,tools,1,Hammer,Martillo,Martell
+234,Probe List,food/dessert,1,chocolate,chocolate,xocolata
+235,Probe List,sport,2,tennis,tenis,tennis
+236,Probe List,clothing,1,Glove,Guante ,Guant 
+237,Probe List,household item,1,thermostat,termostato,termòstat
+238,Probe List,tools,1,ladder,escalera,escala
+239,Probe List,kitchen item,1,toaster,tostadora,torradora
+240,Probe List,animal,1,Dolphin,delfín,dofí
+241,Probe List,transportation,1,bicycle,bicicleta,bicicleta
+242,Probe List,tools,2,chain,cadena,cadena
+243,Probe List,accessory,1,bag,bolsa,bossa
+244,Probe List,kitchen item,1,plate,plato,plat
+245,Probe List,tools,1,hook,gancho,ganxo
+246,Probe List,hygiene product/ health,1,deodorant,desodorante,desodorant
+247,Probe List,tools,1,rake,rastrillo,rasclet
+248,Probe List,animal,1,snail,caracol,caragol
+249,Probe List,place,1,garden,jardín,jardí
+250,Probe List,food/fruit,2,kiwi,kiwi,kiwi
+251,Probe List,animal,1,dragonfly,libélula,libèl·lula
+252,Probe List,tools,1,paintbrush,pincel,pinzell
+253,Probe List,place,1,theater,teatro,teatre
+254,Probe List,transportation,2,motorcycle,moto/motocicleta/motora,moto
+255,Probe List,body part,1,ear,Oreja ,Orella 
+256,Probe List,tools,2,shovel,pala,pala
+257,Probe List,place,1,castle,castillo,castell
+258,Probe List,kitchen item,1,microwave,microondas,microones
+259,Probe List,nature,1,Sun,sol,sol
+260,Probe List,animal,1,parrot,loro/perico/cotorra,lloro
+261,Probe List,household item,1,door,puerta,porta
+262,Probe List,instrument,2,drum,tambor/batería,tambor/bateria
+263,Probe List,food/veg,2,beet,remolacha,remolatxa
+264,Probe List,body part,1,nails ,uñas,ungles
+265,Probe List,instrument,1,trumpet,trompeta,trompeta
+266,Probe List,object,2,wallet,cartera ,cartera
+267,Probe List,food/veg,1,tomato,tomate/jitomate,tomàquet
+268,Probe List,animal,1,caterpillar,oruga,eruga
+269,Probe List,instrument,2,bagpipe ,cornamusa/gaita,gaita
+270,Probe List,object,1,thread,hilo,fil
+271,Probe List,food/fruit,1,cherry,cereza,cirera
+272,Probe List,clothing,1,coat,abrigo,abric
+273,Probe List,animal/part,1,hoof,pezuña,peülla
+274,Probe List,nature,1,lightning,relámpago/rayo,llampec/llamp
+275,Probe List,kitchen item,2,pot,olla,olla 
+276,Probe List,object,2,sprinkler,aspersor,aspersor/ruixador
+277,Probe List,place,1,bathroom,baño/lavabo,bany or lavabo
+278,Probe List,animal,1,penguin,pingüino,pingüí
+279,Probe List,kitchen item,1,pitcher,jarra,gerra
+280,Probe List,animal,1,eagle,águila,àguila
+281,Probe List,professional/person,1,dentist,dentista,dentista
+282,Probe List,electronics,1,headphones,auriculares,auriculars
+283,Probe List,clothing,1,raincoat,impermeable,impermeable
+284,Probe List,animal,1,horse,caballo,cavall
+285,Probe List,kitchen item,1,spatula,espátula,espàtula
+286,Probe List,object,1,Diamond,diamante,diamant
+287,Probe List,transportation,1,gondola,góndola,gòndola
+288,Probe List,animal,1,crocodile,cocodrilo ,cocodril 
+289,Probe List,body part,1,Arm,Brazo ,Braç 
+290,Probe List,object,1,zipper,cremallera/cierra,cremallera
+291,Probe List,animal,1,beetle,escarabajo,escarabat
+292,Probe List,drink,1,coffee,café,cafè
+293,Probe List,kitchen item,2,thermos,termo,termo
+294,Probe List,transportation,1,helicopter,helicóptero,helicòpter
+295,Probe List,object,1,hieroglyphics,jeroglíficos,jeroglífics
+296,Probe List,clothing,1,blouse,blusa,brusa
+297,Probe List,accessory,2,bracelet,pulsera/brazalete,pulsera/braçalet
+298,Probe List,object,1,book,libro,llibre
+299,Probe List,electronics,1,keyboard,teclado,teclat
+300,Probe List,clothing,1,tie,Corbata,corbata
+301,Probe List,object,1,microscope,microscopio,microscopi
+302,Probe List,plant,2,palm,palmera/palma,palmera
+303,Probe List,tool,1,wheelbarrow,carretilla,carretó
+304,Probe List,object,1,pedal,pedal,pedal
+305,Probe List,animal,2,Rat,rata/ratón,rata/ratolí
+306,Probe List,body part,1,Foot,Pie ,Peu 
+307,Probe List,hygene product/ health,1,bandage,vendaje,embenatge
+308,Probe List,object,1,basket,cesta,cistella
+309,Probe List,professional/person,1,magician,mago,mag
+310,Probe List,object,1,podium,podio,podi
+311,Probe List,animal,1,camel,camello,camell
+312,Probe List,transportation,2,trailer,trailer/caravana,trailer/ caravana/ rilot
+313,Probe List,object,1,needle,aguja,agulla
+314,Probe List,nature,1,tornado,tornado,tornado
+315,Probe List,object,2,velcro,velcro,velcro
+316,Probe List,transportation,2,train,tren,tren
+317,Probe List,animal,1,ladybug,mariquita/catarina/chinita,marieta
+318,Probe List,place,1,wardrobe,armario ,armari
+319,Probe List,animal,1,zebra,cebra,zebra
+320,Probe List,accessory,1,ring,anillo,anell
+321,Probe List,place,2,jungle,selva,selva
+322,Probe List,food/snack,1,raisins ,Pasas,panses
+329,Probe List,games,1,ball,pelota,pilota
+324,Probe List,place,1,airport,aeropuerto,aeroport
+325,Probe List,animal,2,goat ,cabra,cabra
+326,Probe List,professional/person,1,referee,árbitro,àrbitre
+331,Probe List,kitchen item,1,whisk,batidora,batedor/minipimer
+323,Probe List,transportation,1,airplane,avión,avió
+327,Probe List,place,1,Desert,Desierto,desert
+330,Probe List,animal,1,fish,pez/peces,peix/peixos
+328,Probe List,object,1,umbrella,paraguas/sombrilla,paraigua
+332,Probe List,food/veg,1,broccoli,brócoli,bròquil
+333,Probe List,office supply,2,calculator,calculadora,calculadora
+334,Probe List,animal,1,cobra,cobra/serpiente/víbora,cobra/serp/víbora
+335,Probe List,plant,1,flower,flor,flor
+336,Probe List,object,2,pearl,perla,perla
+337,Probe List,clothing,2,cap,gorra,gorra
+338,Probe List,hygene product/ health,1,medication,medicación/medicina/medicamento/pastillas,medicació
+339,Probe List,place,1,greenhouse,invernadero,hivernacle
+340,Probe List,household item,1,sink,pica/fregadero,pica/fregadero
+341,Probe List,accesory,1,briefcase,maletín,maletí
+342,Probe List,object,1,lantern,linterna,llanterna
+343,Probe List,nature,2,waterfall,cascada,cascada
+344,Probe List,food/fruit,2,blackberry/blackberries,móra/móras,mora/mores
+345,Probe List,nature,1,cloud,Nube ,Núvol 
+346,Probe List,place,1,forest,bosque,bosc
+347,Probe List,professional/person,1,pilot,piloto,pilot
+348,Probe List,place,2,tunnel,túnel,túnel
+349,Probe List,kitchen item,2,grater ,rallador,ratllador
+350,Probe List,instrument,2,guitar,guitarra,guitarra
+351,Probe List,office supply,2,ruler,regla,regle
+352,Probe List,transportation,2,Cab,Taxi,taxi
+353,Probe List,office supply,1,envelope,sobre,sobre
+354,Probe List,object,1,telescope,telescopio,telescopi
+355,Probe List,clothing,1,sweater,suéter/jersey,jersei
+356,Probe List,food/fruit,1,cantaloupe ,melón,meló
+357,Probe List,hygene product/ health,1,tweezers,pinzas,pinces
+358,Probe List,food/meal,1,spanish tortilla,tortilla,truita
+359,Probe List,electronics,2,battery,pila,pila
+360,Probe List,object,1,trophy,trofeo/copa,Trofeu
+361,Probe List,place,1,cemetery,cementerio,cementiri
+362,Probe List,household item,1,stool,taburete,tamboret
+363,Probe List,clothing,2,boot,bota,bota
+364,Probe List,drink,1,juice,jugo/zumo,suc
+365,Probe List,object,1,plug,enchufe,endoll
+366,Probe List,food/veg,1,radish,rábano,rave
+367,Probe List,kitchen item,1,Funnel,Embudo,Embut
+368,Probe List,tools,1,Chainsaw,Motosierra,Motoserra
+369,Probe List,plants,1,Tree,Árbol ,Arbre 
+370,Probe List,office supply,1,pen,bolígrafo,bolígraf
+371,Probe List,plants,2,cactus,cactus,cactus
+372,Probe List,drink,2,tea,té,te
+373,Probe List,food/fruit,2,papaya,papaya,papaia
+374,Probe List,object,1,helmet,casco,casc
+375,Probe List,transportation,2,Ambulance,Ambulancia,Ambulància
+376,Probe List,household item,1,chimney,Chimenea,xemeneia
+377,Probe List,instrument,2,piano,piano,piano
+378,Probe List,accessory,1,crown,corona,corona
+379,Probe List,object,1,thimble,dedal,didal
+380,Probe List,plants,1,sunflower,girasol,gira-sol
+381,Probe List,animal,1,elephant,elefante,elefant
+382,Probe List,object,1,button,botón,botó
+383,Probe List,nature,2,star,estrella,estrella
+384,Probe List,transportation,2,kayak,kayac,caiac
+385,Probe List,object,2,photos,fotos,fotos
+386,Probe List,animal,1,rooster,gallo,gall
+387,Probe List,food/fruit,1,pear,Pera,pera
+388,Probe List,household item,2,hammock,hamaca,hamaca
+389,Probe List,place,1,church,Iglesia,Església
+390,Probe List,animal,1,Lion,león,lleó
+391,Probe List,food/fruit,2,mango,mango,mango
+392,Probe List,object,1,calendar,calendario,calendari
+393,Probe List,place,1,island,isla,illa
+394,Probe List,furniture,1,desk,escritorio,escriptori
+395,Probe List,food/fruit,2,pineapple,piña,pinya
+396,Probe List,object,1,binoculars,prismáticos/binoculares, prismàtics/binocles
+397,Probe List,sports,2,racket,raqueta,raqueta
+398,Probe List,animal,1,turtle,Tortuga,tortuga
+399,Probe List,accessory,1,watch,reloj,rellotge
+400,Probe List,food/fruit,1,watermelon,sandía,síndria
+401,Probe List,body parts,1,heel,talón,taló
+402,Probe List,accessory,1,necklace,collar,collaret
+403,Probe List,animal,1,Tiger,Tigre,tigre
+404,Probe List,instrument,1,trombone ,trombón,trombó
+405,Probe List,object,1,fence,reja,reixa
+406,Probe List,food/nuts,1,almonds,almendras,ametlles
+407,Probe List,household item,1,chandelier,candelabro,canelobre
+408,Probe List,person,1,grandfather,abuelo,avi
+409,Probe List,kitchen item,2,kettle,tetera,tetera
+410,Probe List,object,1,vase,florero/jarrón,gerro
+411,Probe List,transportation,1,Cableway,Teleférico,Telefèric
+412,Probe List,animal,2,alpaca,llama,llama
+413,Probe List,profession/person,1,astronaut,astronauta,astronauta
+414,Probe List,object,2,flag,bandera,bandera
+415,Probe List,sport,1,soccer,fútbol,futbol
+416,Probe List,food/fruit,2,Coconut,Coco,coco
+417,Probe List,object,1,sword,espada,espasa
+418,Probe List,food/veg,1,garlic,ajo,all
+419,Probe List,drink,1,wine,vino,vi
+420,Probe List,object,1,easel,caballete,cavallet
+421,Probe List,toys,1,balloon,globo,globus
+422,Probe List,electronics,1,camera,cámara,càmera
+423,Probe List,object,1,nametag/badge,gafete,gafet
+424,Probe List,food/meal,2,paella,paella,paella
+425,Probe List,drink,1,beer,cerveza,cervesa
+426,Probe List,body parts,1,hand,mano,mà
+427,Probe List,hygiene product/ health,1,soap,jabón,sabó
+428,Probe List,food/veg,2,potatos,patatas,patatas
+429,Probe List,object,1,horseshoe,herradura,ferradura
+430,Probe List,food/protein,1,shrimp,gambas/camarón,gambes
+431,Probe List,office supply,1,scissors,tijeras/tijera,tisores/tisora
+432,Probe List,sport,1,dumbbells,pesas,peses
+433,Probe List,transportation/tools,2,Tractor,tractor,tractor
+434,Probe List,place,1,bullring,plaza de toros,plaça de bous
+435,Probe List,drink,1,sangria,sangría,sangria
+436,Probe List,food,1,butter,mantequilla/ margarina,mantega
+437,Probe List,body parts,1,eyebrow,ceja,cella
+438,Probe List,sports,1,baseball,béisbol,beisbol
+439,Probe List,transportation/tools,1,crane,grúa,grua
+440,Probe List,clothing,2,beret,boina,boina
+441,Probe List,animal,2,walrus,morsa,morsa
+442,Probe List,clothing,1,pants,pantalones,pantalons
+443,Probe List,food/dessert,1,cookie,Galleta,galeta
+444,Probe List,animal,1,scorpion,escorpión/alacran,escorpí
+445,Probe List,electronics,1,television,televisión,televisió
+446,Probe List,clothing,1,roller skate,patines,patins
+447,Probe List,animal,1,kangaroo,canguro,cangur
+448,Probe List,drink,1,water,agua,aigua
+449,Probe List,food/fruit,1,banana,plátano/banana/guineo,plàtan 
+450,Probe List,animal,1,cat,gato,gat
+451,Probe List,kitchen item,2,Salt,sal,sal
+452,Probe List,clothing,1,jacket,chaqueta/chamarra/abrigo,jaqueta
+453,Probe List,electronics,1,tablet,tableta/tablet,tauleta
+454,Probe List,transportation/tools,1,car,coche/auto/carro,cotxe
+455,Probe List,furniture,1,sofa,sofá/sillón,sofà
+456,Probe List,hygiene,1,Shower,Chaparrón/alcachofa,xàfec/carxofa
+457,Probe List,electronics,2,computer,ordenador,ordenador
+458,Probe List,flower,1,rose,rosa,rosa
+459,Probe List,clothing,1,shoes,zapato,sabata
+460,Probe List,food/vegetable,1,beans,lentejas,llenties
+461,Probe List,animal,1,sheep,oveja,ovella
+462,Probe List,object,2,magazine,revista,revista
+463,Probe List,animal,2,cow,vaca,vaca
+464,Probe List,food/meal,1,rice,arroz,arròs
+465,Probe List,place,1,pharmacy,farmacia,farmàcia
+466,Probe List,food/snack,1,bread,pan,pa
+467,Probe List,nature,1,river,río,riu
+468,Probe List,household item,1,towel,toalla,tovallola
+469,Probe List,food,1,ice cream,helado,gelat
+470,Probe List,object,1,news paper,periódico,periòdic
+471,Probe List,drink,1,milk,leche,llet
+472,Probe List,food/fruit,1,lemon,limón,llimona
+473,Probe List,sports,1,ski,esquí,esquí
+474,Probe List,household item,1,clothes like,tendedero,estenedor
+475,Probe List,animal,1,chicken (meat),pollo,pollet
+476,Probe List,household item,1,light bulb,bombilla,bombeta
+477,Probe List,plant,1,tulip,tulipán,tulipa
+478,Probe List,food/fruit,2,jalapenos,jalapeños,*jalapeños
+479,Probe List,animal,2,seal,foca ,foca
+480,Probe List,household item,2,Fan,Ventilador,Ventilador
+481,Probe List,object,2,suitcase,maleta,maleta
+482,Probe List,accesorie,1,fanny pack,riñonera,ronyonera
+483,Probe List,object,1,lock,candado,cadenat/candau
+484,Probe List,professional/person,0,,basurero,escombriaire
+485,Probe List,professional/person,0,,panadero,forner
+486,Probe List,professional/person,0,,carpintero,fuster
+487,Probe List,professional/person,0,,agricultor,pagès/agricultor
+488,Probe List,professional/person,0,,ganadero,ramader
+489,Probe List,professional/person,0,,Azafata,Hostessa
+490,Probe List,professional/person,1,,abogado,advocat
+491,Probe List,professional/person,0,,fontanero,Lampista
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
