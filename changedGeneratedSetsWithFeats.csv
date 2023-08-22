@@ -1,0 +1,41 @@
+Assignment,Set #,Original order in ppt,"Source (Probe list, Patient)",Semantic  Category,Cog Status (Span/Cat),Palabra en English,Palabra en Castellano,Paraula en Català,Espal_NSYL,Espal_IMG,Espal_NLET,Espal_CON,Espal_FAM,ClearpondFrequency_PerMil_Esp,Coca_word Freq (Total) - Web/Dialects,COCA_full freq Eng,Clearpond_wordLength_orthographic_Eng,Clearpond_Lexical_Frequency_Eng,MRC Concreteness,MRC Familiarity,MRC Imigability,MRC N_of_Letters,MRC N_of_Syllables,CAT_SUBTLEX_NSYL,NIM_NLET,NIM_WordFreq_Relativa,NIM_WordFreq_Total_Absoluta
+Trained in Catalan,1,465,Probe List,place,1,pharmacy,farmacia,farmàcia,3,5.836,8,6.39,6.39,8.8942,14309,5147,8,3.4314,NaN,NaN,NaN,8,3,4,8,8.40915,431
+Trained in Catalan,1,400,Probe List,food/fruit,1,watermelon,sandía,síndria,3,2,6,2,2,2.2837,3017,2322,10,2.1961,NaN,NaN,NaN,6,NaN,3,7,1.63891,84
+Trained in Catalan,1,323,Probe List,transportation,1,airplane,avión,avió,2,5.81,5,6.249,6.249,123.0529,65364,11115,8,10.9216,NaN,NaN,NaN,5,2,3,4,9.63833,494
+Trained in Catalan,2,313,Probe List,object,1,needle,aguja,agulla,3,5.93,5,5.875,5.875,11.226,11930,9273,6,11.9216,NaN,NaN,NaN,5,2,3,6,22.9642,1177
+Trained in Catalan,2,453,Probe List,electronics,1,tablet,tableta/tablet,tauleta,2.5,2,6.5,2,2,NaN,NaN,10170,6,1.4902,NaN,NaN,NaN,6.5,2,3,7,13.599,697
+Untrained,1,271,Probe List,food/fruit,1,cherry,cereza,cirera,3,2,6,2,2,4.8317,2520,11529,6,13.5882,611,514,582,6,2,3,6,3.31684,170
+Untrained,1,182,Probe List,hygene product/ health,0,brush,cepillo,raspall,3,6.003,7,5.499,5.499,9.4712,6854,19467,5,14.1569,589,579,570,7,1,2,7,3.21928,165
+Untrained,2,428,Probe List,food/veg,2,potatos,patatas,patatas,3,2,7,2,2,8.125,9547,32,7,NaN,NaN,NaN,NaN,7,3,NaN,7,2.79004,143
+Untrained,2,161,Probe List,sports,1,basketball,bàsquet/baloncesto/básquebol,bàsquet,2.666666667,3.424,8.666666667,3.524333333,3.524333333,NaN,NaN,39812,10,21.3922,NaN,NaN,NaN,8.666666667,NaN,2,7,1.46331,75
+Untrained,2,7,Probe List,object,0,Sewer,Alcantarilla,Claveguera,2,2,12,2,2,NaN,NaN,NaN,5,NaN,NaN,NaN,NaN,12,2,NaN,10,NaN,NaN
+Trained in Spanish,3,297,Probe List,accessory,2,bracelet,pulsera/brazalete,pulsera/braçalet,3.5,3.977,8,6.0895,6.0895,NaN,NaN,4235,8,7.8039,602,547,606,8,2,NaN,7.5,NaN,NaN
+Trained in Spanish,4,213,Probe List,transportation,1,Tow,Remolque/grúa,Remolc,2,2,6,2,2,NaN,NaN,NaN,3,NaN,NaN,NaN,NaN,6,1,NaN,6,NaN,NaN
+Trained in Spanish,3,420,Probe List,object,1,easel,caballete,cavallet,4,6.009,9,5.987,5.987,NaN,723,1326,5,NaN,580,349,532,9,2,3,8,3.04368,156
+Trained in Spanish,3,217,Probe List,place,2,Cabin,Cabaña,Cabanya,2,2,6,2,2,NaN,NaN,NaN,5,NaN,NaN,NaN,NaN,6,2,NaN,7,NaN,NaN
+Trained in Spanish,3,301,Probe List,object,1,microscope,microscopio,microscopi,4,6.011,11,6.69,6.69,2.8365,5836,3853,10,2.5294,591,493,617,11,3,4,10,5.58009,286
+Untrained,4,289,Probe List,body part,1,Arm,Brazo ,Braç ,2,2,6,2,2,NaN,NaN,NaN,3,NaN,NaN,NaN,NaN,6,1,NaN,5,NaN,NaN
+Untrained,3,208,Probe List,food/veg,1,Zucchini,Calabacín/calabaza,Carabassó,3,2,8.5,2,2,NaN,NaN,NaN,8,NaN,NaN,NaN,NaN,8.5,3,NaN,9,NaN,NaN
+Untrained,4,28,Probe List,games,0,kite,cometa,estel,3,6.066,6,5.618,5.618,8.1731,12841,2519,4,2.2941,592,481,624,6,1,2,5,18.8669,967
+Untrained,4,284,Probe List,animal,1,horse,caballo,cavall,3,6.648,7,6.228,6.228,62.1635,46523,44581,5,92.8824,613,560,624,7,1,2,6,80.1504,4108
+Untrained,4,215,Probe List,hygiene product/health,1,Nail file,Lima,lima,2,2,4,2,2,NaN,NaN,NaN,9,NaN,NaN,NaN,NaN,4,3,2,4,NaN,NaN
+Trained in Spanish,5,397,Probe List,sports,2,racket,raqueta,raqueta,3,2,7,2,2,1.7788,1571,2819,6,7.4314,562,486,530,7,2,3,7,0.585324,30
+Trained in Spanish,5,256,Probe List,tools,2,shovel,pala,pala,2,6.263,4,5.479,5.479,6.4423,4554,4442,6,6.8431,581,528,538,4,2,2,4,6.75074,346
+Trained in Spanish,5,209,Probe List,kitchen item,1,Juicer,Exprimidor,Espremedor,2,2,10,2,2,NaN,NaN,NaN,6,NaN,NaN,NaN,NaN,10,2,NaN,10,NaN,NaN
+Trained in Spanish,5,360,Probe List,object,1,trophy,trofeo/copa,Trofeu,2.5,5.7,5,5.4445,5.4445,NaN,NaN,7737,6,7.549,NaN,NaN,NaN,5,2,NaN,6,NaN,NaN
+Trained in Spanish,5,73,Probe List,office supply,2,shredder,trituradora,trituradora,5,2,11,2,2,1.2981,979,1305,8,NaN,NaN,NaN,NaN,11,2,5,11,0.0780432,4
+Trained in Catalan,6,374,Probe List,object,1,helmet,casco,casc,2,5.797,5,4.402,4.402,16.8029,22907,10342,6,9.4706,602,528,620,5,2,1,4,8.95546,459
+Trained in Catalan,6,476,Probe List,household item,1,light bulb,bombilla,bombeta,3,6.203,8,6.362,6.362,1.9231,4304,NaN,10,NaN,NaN,NaN,NaN,8,2,3,7,7.74579,397
+Trained in Catalan,6,282,Probe List,electronics,1,headphones,auriculares,auriculars,5,2,11,2,2,2.476,5473,3755,10,1.5686,NaN,NaN,NaN,11,NaN,4,10,0.917008,47
+Trained in Catalan,6,25,Probe List,kitchen item,0,Cork,Corcho,Tap de suro / Tap,2,2,6,2,2,NaN,NaN,NaN,4,NaN,NaN,NaN,NaN,6,1,NaN,8,NaN,NaN
+Trained in Catalan,6,340,Probe List,household item,1,sink,pica/fregadero,pica/fregadero,3,2,6.5,4.141,4.141,NaN,NaN,19461,4,16.9216,590,586,599,6.5,1,NaN,6.5,NaN,NaN
+Trained in Catalan,7,100,Probe List,place,1,Gym,gimnasio,gimnàs,3,6.492,8,6.135,6.135,25.0962,22160,NaN,3,NaN,NaN,NaN,NaN,8,1,2,6,2.00961,103
+Trained in Catalan,7,338,Probe List,hygene product/ health,1,medication,medicación/medicina/medicamento/pastillas,medicació,4,2.795,9.5,2.77325,2.77325,NaN,NaN,15452,10,12.7843,NaN,NaN,NaN,9.5,4,5,9,3.49243,179
+Trained in Catalan,7,355,Probe List,clothing,1,sweater,suéter/jersey,jersei,2,4.106,6,4.195,4.195,NaN,NaN,8526,7,13.8039,NaN,NaN,NaN,6,2,2,6,3.58999,184
+Trained in Catalan,7,331,Probe List,kitchen item,1,whisk,batidora,batedor/minipimer,4,2,8,2,2,NaN,2766,4947,5,0.56863,NaN,NaN,NaN,8,1,NaN,8,NaN,NaN
+Trained in Catalan,7,413,Probe List,profession/person,1,astronaut,astronauta,astronauta,4,6.319,10,6.294,6.294,6.274,4282,4276,9,3.9608,NaN,NaN,NaN,10,3,4,10,0.292662,15
+Trained in Spanish,8,13,Probe List,kitchen item,0,Grill,Parrilla/Asador,Graella,2,2,7,2,2,NaN,NaN,NaN,5,NaN,NaN,NaN,NaN,7,1,NaN,7,NaN,NaN
+Trained in Spanish,8,467,Probe List,nature,1,river,río,riu,2,6.255,3,6.271,6.271,61.5144,183183,89579,5,55.4706,585,565,633,3,2,1,3,156.242,8008
+Trained in Spanish,8,293,Probe List,kitchen item,2,thermos,termo,termo,2,2,5,2,2,1.4663,1804,989,7,1.1176,NaN,NaN,NaN,5,2,2,5,0.117065,6
+Trained in Spanish,8,76,Probe List,tools,0,Screw,Tornillo,Cargol,2,2,8,2,2,NaN,NaN,NaN,5,NaN,NaN,NaN,NaN,8,1,NaN,6,NaN,NaN
+Trained in Spanish,8,363,Probe List,clothing,2,boot,bota,bota,2,6.749,4,5.429,5.429,5.1202,5298,13328,4,11.1373,595,566,604,4,1,2,4,6.45807,331

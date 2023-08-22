@@ -3,9 +3,24 @@
 ##load in changed spreadsheet
 """
 
-import pandas as pd
+import sys
+inputSpreadSheet = sys.argv[1]#'changedGeneratedSetsWithFeats.csv''
+outputDirectory = 'changed_' + sys.argv[2]
+assert outputDirectory[-1] == '/', print("output directory must end with /")
 
-changedSetsWithFeatsDF = pd.read_csv('changedGeneratedSetsWithFeats.csv')
+#make outputDirectory if it doesn't exist
+import os
+if not os.path.exists(outputDirectory):
+    os.makedirs(outputDirectory)
+    print(f"Directory '{outputDirectory}' created.")
+else:
+    print(f"Directory '{outputDirectory}' already exists.")
+
+
+import pandas as pd
+import numpy as np
+
+changedSetsWithFeatsDF = pd.read_csv(inputSpreadSheet)
 changedSetsWithFeatsDF.head()
 
 """##Fix assignment order"""
@@ -29,12 +44,6 @@ changedSetsWithFeatsDF
 splitGeneratedSetsDf = np.array_split(changedSetsWithFeatsDF, 8) # THIS LINE IS VERY IMPORANT, changedSetsWithFeatsDF instead of generatedSetsDF
 len(splitGeneratedSetsDf)
 
-for generatedSet in splitGeneratedSetsDf:
-    print(type(generatedSet))
-
-splitGeneratedSetsDf[0]
-
-splitGeneratedSetsDf[7]
 
 """#t-tests
 
@@ -49,7 +58,6 @@ for i in range(8):
     if i == j:
       continue
     descriptors.append("S" + str(i+1) + "," + str(j+1))
-print(descriptors)
 
 def ttest_feature(feature,p_condition=0.01):
   p_vals = []
@@ -166,7 +174,6 @@ def ttest_feature(feature,p_condition=0.01):
       p_vals.append(p_value)
   return p_vals
 
-generatedSetsDF.columns
 
 
 
@@ -245,13 +252,15 @@ changedSetsWithFeatsDF.to_csv(outputDirectory  + 'changedSetsWithFeats.csv', ind
 
 """# Assigning Part 2"""
 
-assignmentOrder
+assignmentOrder = []
+
+for i in range(0,len(originalAssignmentOrder),5):
+  assignmentOrder.append(originalAssignmentOrder[i])
+
 
 trainedSpanishDFIndexes = [i for i, string in enumerate(assignmentOrder) if string == 'Trained in Spanish']
 trainedCatalanDFIndexes = [i for i, string in enumerate(assignmentOrder) if string == 'Trained in Catalan']
 untrainedIndexes = [i for i, string in enumerate(assignmentOrder) if string == 'Untrained']
-
-splitGeneratedSetsDf
 
 
 
@@ -259,7 +268,6 @@ trainedSpanishDFs = [splitGeneratedSetsDf[i] for i in trainedSpanishDFIndexes]
 trainedCatalanDFs = [splitGeneratedSetsDf[i] for i in trainedCatalanDFIndexes]
 untrainedDFs = [splitGeneratedSetsDf[i] for i in untrainedIndexes]
 
-trainedSpanishDFIndexes
 
 allTrainedSpanishDF = pd.concat(trainedSpanishDFs)
 allTrainedSpanishDF.head()
