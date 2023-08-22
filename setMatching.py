@@ -3,7 +3,19 @@ import sys
 inputSpreadSheet = sys.argv[1]#'FINAL_R01_LRT_PreTx_Probing_DataSheet.csv'
 outputDirectory = sys.argv[2]
 assert outputDirectory[-1] == '/', print("output directory must end with /")
-setMatchingDirectory = "/work/09424/smgrasso1/ls6/SetMatching/" #sys.argv[3] 
+
+
+#make outputDirectory if it doesn't exist
+import os
+if not os.path.exists(outputDirectory):
+    os.makedirs(outputDirectory)
+    print(f"Directory '{outputDirectory}' created.")
+else:
+    print(f"Directory '{outputDirectory}' already exists.")
+
+
+
+setMatchingDirectory = "/work/09424/smgrasso1/ls6/SetMatchingMADR/" #sys.argv[3] 
 
 
 
