@@ -38,14 +38,13 @@ This script will keep regenerating sets until all the p-values are > p_min. You'
 
 
 If you don't want this loop to occur (i.e. no guarantee that all p values are > p_min), run the following:
-General format of command: python setMatching.py inputSpreadsheet outputDirectory
-Example command: python setMatching.py FINAL_R01_LRT_PreTx_Probing_DataSheet.csv trialOutput/
+- General format of command: python setMatching.py inputSpreadsheet outputDirectory
+- Example command: python setMatching.py FINAL_R01_LRT_PreTx_Probing_DataSheet.csv trialOutput/
 
 
 
 CHANGING OUTPUT AND RERUNNING T-test
 
-Open trialOutputLoopP_0.05/generatedSetsWithFeats.csv and change the Set # of some words. save this as trialOutputLoopP_0.05/generatedSetsWithFeats.csv
-
-Then, python setMatchingChanged.py trialOutputLoopP_0.05/changedSetsWithFeats.csv  trialChangedOutput/
-This will create a directory named changed_trialOutput.
+- Open trialOutputLoopP_0.01/generatedSetsWithFeats.csv and change the Set # of some words. save this as trialOutputLoopP_0.01/changedSetsWithFeats.csv
+- Then, python setMatchingChanged.py trialOutputLoopP_0.01/changedSetsWithFeats.csv  trialChangedOutput/
+- This will create a directory named changed_trialOutput.
