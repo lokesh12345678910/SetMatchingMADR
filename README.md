@@ -1,4 +1,4 @@
-Setting up conda environment
+Setting up conda environment:
 - conda create --name setMatching
 - conda activate setMatching
 - conda install pip
@@ -8,7 +8,7 @@ Setting up conda environment
 - conda install -c anaconda pandas
 
 
-
+Generating sets:
 - General format of command: ./setMatchingWhileLoop.sh inputSpreadsheet OutputDirectory PMin
 - Example command: ./setMatchingWhileLoop.sh FINAL_R01_LRT_PreTx_Probing_DataSheet.csv trialOutputLoopP_0.05/ 0.05
 
