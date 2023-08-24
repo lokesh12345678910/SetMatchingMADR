@@ -9,8 +9,8 @@ Setting up conda environment
 
 
 
-General format of command: ./setMatchingWhileLoop.sh inputSpreadsheet OutputDirectory PMin
-Example command: ./setMatchingWhileLoop.sh FINAL_R01_LRT_PreTx_Probing_DataSheet.csv trialOutputLoopP_0.05/ 0.05
+- General format of command: ./setMatchingWhileLoop.sh inputSpreadsheet OutputDirectory PMin
+- Example command: ./setMatchingWhileLoop.sh FINAL_R01_LRT_PreTx_Probing_DataSheet.csv trialOutputLoopP_0.05/ 0.05
 
 This script will keep regenerating sets until all the p-values are > p_min. You'll see output that looks like this:
 - Within English, for the feature MRC Concreteness p value between set 2 and 4 is <= 0.05
