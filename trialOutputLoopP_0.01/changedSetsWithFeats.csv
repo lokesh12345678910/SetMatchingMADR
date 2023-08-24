@@ -1,41 +1,41 @@
 Assignment,Set #,Original order in ppt,"Source (Probe list, Patient)",Semantic  Category,Cog Status (Span/Cat),Palabra en English,Palabra en Castellano,Paraula en Català,Espal_NSYL,Espal_IMG,Espal_NLET,Espal_CON,Espal_FAM,ClearpondFrequency_PerMil_Esp,Coca_word Freq (Total) - Web/Dialects,COCA_full freq Eng,Clearpond_wordLength_orthographic_Eng,Clearpond_Lexical_Frequency_Eng,MRC Concreteness,MRC Familiarity,MRC Imigability,MRC N_of_Letters,MRC N_of_Syllables,CAT_SUBTLEX_NSYL,NIM_NLET,NIM_WordFreq_Relativa,NIM_WordFreq_Total_Absoluta
 Trained in Catalan,1,77.0,Probe List,clothing,0.0,sock,calcetín,mitjó,3.0,2.0,8.0,2.0,2.0,2.5,1047.0,4195.0,4,8.9804,581.0,578.0,553.0,8.0,1.0,2.0,5.0,0.74141,38.0
+Trained in Catalan,2,211.0,Probe List,food/veg,2.0,cabbage,repollo/col,col,2.0,2.0,5.0,2.0,2.0,NaN,NaN,4465.0,7,2.902,611.0,504.0,573.0,5.0,2.0,1.0,3.0,8.3116,426.0
 Trained in Catalan,1,171.0,Probe List,instrument,1.0,violin,violín,violí,2.0,6.398,6.0,6.321,6.321,4.5192,6698.0,4837.0,6,4.7451,626.0,468.0,606.0,6.0,3.0,3.0,5.0,10.77,552.0
 Trained in Catalan,1,357.0,Probe List,hygene product/ health,1.0,tweezers,pinzas,pinces,2.0,2.0,6.0,2.0,2.0,3.4856,4375.0,653.0,8,1.0196,590.0,415.0,619.0,6.0,2.0,2.0,6.0,3.19977,164.0
 Trained in Catalan,1,148.0,Probe List,food/meal,2.0,Soup,sopa,sopa,2.0,6.227,4.0,6.164,6.164,25.8173,18087.0,NaN,4,NaN,NaN,NaN,NaN,4.0,1.0,2.0,4.0,17.5207,898.0
-Trained in Catalan,1,60.0,Probe List,games,0.0,marbles,canicas,bales,3.0,2.0,7.0,2.0,2.0,1.2981,1247.0,1716.0,7,3.0392,NaN,NaN,NaN,7.0,NaN,2.0,5.0,8.54573,438.0
-Trained in Spanish,2,87.0,Probe List,instrument,2.0,flute ,flauta,flauta,2.0,5.971,6.0,6.161,6.161,3.5096,5402.0,NaN,6,NaN,NaN,NaN,NaN,6.0,2.0,2.0,6.0,7.9409,407.0
-Trained in Spanish,2,274.0,Probe List,nature,1.0,lightning,relámpago/rayo,llampec/llamp,3.0,6.221,6.5,5.908,5.908,NaN,NaN,13203.0,9,14.1373,525.0,465.0,599.0,6.5,2.0,NaN,6.0,NaN,NaN
 Trained in Spanish,2,89.0,Probe List,kitchen item,0.0,Spoon,Cuchara ,Cullera ,2.0,2.0,8.0,2.0,2.0,NaN,NaN,NaN,5,NaN,NaN,NaN,NaN,8.0,1.0,NaN,8.0,NaN,NaN
-Trained in Spanish,2,211.0,Probe List,food/veg,2.0,cabbage,repollo/col,col,2.0,2.0,5.0,2.0,2.0,NaN,NaN,4465.0,7,2.902,611.0,504.0,573.0,5.0,2.0,1.0,3.0,8.3116,426.0
 Trained in Spanish,2,383.0,Probe List,nature,2.0,star,estrella,estrella,3.0,5.913,8.0,5.062,5.062,61.0577,87234.0,107361.0,4,81.3529,574.0,574.0,623.0,8.0,1.0,3.0,8.0,29.0321,1488.0
+Trained in Spanish,1,60.0,Probe List,games,0.0,marbles,canicas,bales,3.0,2.0,7.0,2.0,2.0,1.2981,1247.0,1716.0,7,3.0392,NaN,NaN,NaN,7.0,NaN,2.0,5.0,8.54573,438.0
+Trained in Spanish,2,274.0,Probe List,nature,1.0,lightning,relámpago/rayo,llampec/llamp,3.0,6.221,6.5,5.9079999999999995,5.9079999999999995,NaN,NaN,13203.0,9,14.1373,525.0,465.0,599.0,6.5,2.0,NaN,6.0,NaN,NaN
+Trained in Spanish,2,87.0,Probe List,instrument,2.0,flute ,flauta,flauta,2.0,5.971,6.0,6.161,6.161,3.5096,5402.0,NaN,6,NaN,NaN,NaN,NaN,6.0,2.0,2.0,6.0,7.9409,407.0
 Untrained,3,57.0,Probe List,accessory,0.0,glasses,gafas/espejuelos/lentes/anteojos,ulleres,3.0,4.96775,7.25,5.044499999999999,5.044499999999999,NaN,NaN,23502.0,7,33.1176,NaN,NaN,NaN,7.25,NaN,3.0,7.0,17.4427,894.0
 Untrained,3,415.0,Probe List,sport,1.0,soccer,fútbol,futbol,2.0,6.289,6.0,5.683,5.683,54.0144,172243.0,20314.0,6,12.549,524.0,521.0,570.0,6.0,2.0,2.0,6.0,18.067,926.0
 Untrained,3,66.0,Probe List,food/snack,0.0,popcorn,palomitas,crispetes,4.0,2.0,9.0,2.0,2.0,7.8606,3597.0,5666.0,7,9.1176,NaN,NaN,NaN,9.0,NaN,3.0,9.0,NaN,NaN
 Untrained,3,166.0,Probe List,person,1.0,child,niño,nen,2.0,6.39,4.0,6.177,6.177,268.8702,353335.0,242585.0,5,157.6471,581.0,585.0,619.0,4.0,1.0,1.0,3.0,77.3603,3965.0
 Untrained,3,203.0,Probe List,nature,1.0,Planets,Planetas,Planetes,2.0,2.0,8.0,2.0,2.0,NaN,NaN,NaN,7,NaN,NaN,NaN,NaN,8.0,2.0,NaN,8.0,NaN,NaN
-Trained in Catalan,4,243.0,Probe List,accessory,1.0,bag,bolsa,bossa,2.0,5.035,5.0,4.724,4.724,73.9423,65638.0,62855.0,3,94.0392,603.0,634.0,570.0,5.0,1.0,2.0,5.0,18.9255,970.0
-Trained in Catalan,4,131.0,Probe List,animal,1.0,gorilla,gorila,goril·la,3.0,2.0,6.0,2.0,2.0,4.5433,2906.0,2768.0,7,5.549,620.0,554.0,634.0,6.0,3.0,3.0,8.0,1.2682,65.0
-Trained in Catalan,4,27.0,Probe List,animal,0.0,donkey,burro,ruc/burro,2.0,2.0,5.0,4.94,4.94,9.4712,10723.0,3685.0,6,5.3529,NaN,NaN,NaN,5.0,2.0,NaN,4.0,NaN,NaN
 Trained in Catalan,4,395.0,Probe List,food/fruit,2.0,pineapple,piña,pinya,2.0,2.0,4.0,2.0,2.0,3.3894,10068.0,2991.0,9,2.549,653.0,489.0,569.0,4.0,3.0,2.0,5.0,3.29732,169.0
 Trained in Catalan,4,457.0,Probe List,electronics,2.0,computer,ordenador,ordenador,4.0,6.009,9.0,5.908,5.908,6.9231,59655.0,108193.0,8,59.0392,NaN,NaN,NaN,9.0,3.0,4.0,9.0,2.28276,117.0
+Trained in Catalan,4,131.0,Probe List,animal,1.0,gorilla,gorila,goril·la,3.0,2.0,6.0,2.0,2.0,4.5433,2906.0,2768.0,7,5.549,620.0,554.0,634.0,6.0,3.0,3.0,8.0,1.2682,65.0
+Trained in Catalan,4,243.0,Probe List,accessory,1.0,bag,bolsa,bossa,2.0,5.035,5.0,4.724,4.724,73.9423,65638.0,62855.0,3,94.0392,603.0,634.0,570.0,5.0,1.0,2.0,5.0,18.9255,970.0
+Trained in Catalan,4,27.0,Probe List,animal,0.0,donkey,burro,ruc/burro,2.0,2.0,5.0,4.94,4.94,9.4712,10723.0,3685.0,6,5.3529,NaN,NaN,NaN,5.0,2.0,NaN,4.0,NaN,NaN
 Trained in Catalan,5,303.0,Probe List,tool,1.0,wheelbarrow,carretilla,carretó,4.0,2.0,10.0,2.0,2.0,1.8029,1327.0,867.0,11,0.60784,NaN,NaN,NaN,10.0,3.0,3.0,7.0,4.17531,214.0
 Trained in Catalan,5,386.0,Probe List,animal,1.0,rooster,gallo,gall,2.0,6.614,5.0,5.942,5.942,6.0817,21290.0,2257.0,7,3.8627,0.0,385.0,NaN,5.0,2.0,1.0,4.0,23.5886,1209.0
 Trained in Catalan,5,10.0,Probe List,animal,0.0,fox,zorro,guineu,2.0,6.204,5.0,6.047,6.047,8.2933,6440.0,50042.0,3,21.6078,605.0,501.0,607.0,5.0,1.0,2.0,6.0,5.58009,286.0
 Trained in Catalan,5,388.0,Probe List,household item,2.0,hammock,hamaca,hamaca,3.0,6.566,6.0,6.085,6.085,1.7788,2953.0,1405.0,7,1.3922,NaN,NaN,NaN,6.0,2.0,3.0,6.0,0.507281,26.0
 Trained in Catalan,5,230.0,Probe List,transportation/tools,2.0,Excavator,Excavadora,Excavadora,2.0,2.0,10.0,2.0,2.0,NaN,NaN,NaN,9,NaN,NaN,NaN,NaN,10.0,4.0,NaN,10.0,NaN,NaN
-Trained in Spanish,6,56.0,Probe List,animal,0.0,beehive,colmena,rusc,3.0,2.0,7.0,2.0,2.0,2.0673,2894.0,772.0,7,0.86275,611.0,398.0,572.0,7.0,2.0,1.0,4.0,2.79004,143.0
-Trained in Spanish,6,219.0,Probe List,kitchen item,1.0,Sponge,Esponja,Esponja,2.0,2.0,7.0,2.0,2.0,NaN,NaN,NaN,6,NaN,NaN,NaN,NaN,7.0,2.0,NaN,7.0,NaN,NaN
-Trained in Spanish,6,365.0,Probe List,object,1.0,plug,enchufe,endoll,3.0,2.0,7.0,2.0,2.0,1.5144,2640.0,9607.0,4,10.4118,558.0,575.0,583.0,7.0,1.0,2.0,6.0,0.097554,5.0
 Trained in Spanish,6,326.0,Probe List,professional/person,1.0,referee,árbitro,àrbitre,3.0,2.0,7.0,2.0,2.0,4.399,NaN,2943.0,7,3.5882,554.0,534.0,564.0,7.0,3.0,3.0,7.0,7.70677,395.0
 Trained in Spanish,6,37.0,Probe List,kitchen item,0.0,knife,cuchillo,ganivet,3.0,6.499,8.0,6.506,6.506,41.5385,15973.0,29274.0,5,46.8039,612.0,573.0,633.0,8.0,1.0,3.0,7.0,21.5399,1104.0
+Trained in Spanish,6,219.0,Probe List,kitchen item,1.0,Sponge,Esponja,Esponja,2.0,2.0,7.0,2.0,2.0,NaN,NaN,NaN,6,NaN,NaN,NaN,NaN,7.0,2.0,NaN,7.0,NaN,NaN
+Trained in Spanish,6,365.0,Probe List,object,1.0,plug,enchufe,endoll,3.0,2.0,7.0,2.0,2.0,1.5144,2640.0,9607.0,4,10.4118,558.0,575.0,583.0,7.0,1.0,2.0,6.0,0.097554,5.0
+Trained in Spanish,6,56.0,Probe List,animal,0.0,beehive,colmena,rusc,3.0,2.0,7.0,2.0,2.0,2.0673,2894.0,772.0,7,0.86275,611.0,398.0,572.0,7.0,2.0,1.0,4.0,2.79004,143.0
 Untrained,7,449.0,Probe List,food/fruit,1.0,banana,plátano/banana/guineo,plàtan ,3.0,2.0,6.333333333333333,2.0,2.0,NaN,NaN,7765.0,6,10.7255,633.0,576.0,644.0,6.333333333333333,3.0,NaN,7.0,NaN,NaN
 Untrained,7,304.0,Probe List,object,1.0,pedal,pedal,pedal,2.0,2.0,5.0,2.0,2.0,1.3462,3671.0,3977.0,5,2.0392,NaN,NaN,NaN,5.0,2.0,2.0,5.0,1.48282,76.0
 Untrained,7,371.0,Probe List,plants,2.0,cactus,cactus,cactus,2.0,6.509,6.0,6.209,6.209,1.9712,2658.0,2655.0,6,2.902,NaN,NaN,NaN,6.0,2.0,2.0,6.0,1.40478,72.0
 Untrained,7,21.0,Probe List,hygiene product/health,0.0,Nail clippers,Cortaúñas,Tallaungles,2.0,2.0,9.0,2.0,2.0,NaN,NaN,NaN,13,NaN,NaN,NaN,NaN,9.0,3.0,NaN,11.0,NaN,NaN
 Untrained,7,379.0,Probe List,object,1.0,thimble,dedal,didal,2.0,2.0,5.0,2.0,2.0,NaN,416.0,319.0,7,NaN,529.0,397.0,570.0,5.0,2.0,2.0,5.0,0.858475,44.0
-Trained in Spanish,8,372.0,Probe List,drink,2.0,tea,té,te,1.0,5.684,2.0,6.376,6.376,60.1442,NaN,46245.0,3,58.6275,609.0,572.0,599.0,2.0,1.0,1.0,2.0,508.042,26039.0
 Trained in Spanish,8,414.0,Probe List,object,2.0,flag,bandera,bandera,3.0,6.051,7.0,6.522,6.522,15.2404,57582.0,25040.0,4,17.4902,606.0,545.0,607.0,7.0,1.0,3.0,7.0,35.0219,1795.0
 Trained in Spanish,8,248.0,Probe List,animal,1.0,snail,caracol,caragol,3.0,6.535,7.0,6.126,6.126,2.3798,15310.0,1906.0,5,1.7647,579.0,489.0,577.0,7.0,1.0,3.0,7.0,3.92167,201.0
 Trained in Spanish,8,227.0,Probe List,hygiene product/health,1.0,Syringe,Jeringuilla/jeringa,Xeringa,2.5,2.0,9.0,2.0,2.0,NaN,NaN,NaN,7,NaN,NaN,NaN,NaN,9.0,3.0,NaN,7.0,NaN,NaN
+Trained in Spanish,8,372.0,Probe List,drink,2.0,tea,té,te,1.0,5.684,2.0,6.376,6.376,60.1442,NaN,46245.0,3,58.6275,609.0,572.0,599.0,2.0,1.0,1.0,2.0,508.042,26039.0
 Trained in Spanish,8,258.0,Probe List,kitchen item,1.0,microwave,microondas,microones,4.0,2.0,10.0,2.0,2.0,6.4183,9502.0,6761.0,9,3.902,NaN,NaN,NaN,10.0,NaN,4.0,9.0,0.156086,8.0
